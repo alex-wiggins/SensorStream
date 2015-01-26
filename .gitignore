@@ -4,3 +4,7 @@
 *.plist
 
 *.xcuserstate
+
+*.xccheckout
+
+*.xcuserstate
