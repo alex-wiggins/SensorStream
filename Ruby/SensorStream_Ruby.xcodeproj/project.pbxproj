@@ -7,12 +7,6 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3C13CB2819E0A16C00253468 /* SensorStream-0.0.1.gem */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SensorStream-0.0.1.gem"; sourceTree = "<group>"; };
-		3C13CB2919E0A16C00253468 /* SensorStream-0.0.2.gem */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SensorStream-0.0.2.gem"; sourceTree = "<group>"; };
-		3C13CB2A19E0A16C00253468 /* SensorStream-0.0.3.gem */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SensorStream-0.0.3.gem"; sourceTree = "<group>"; };
-		3C13CB2B19E0A16C00253468 /* SensorStream-0.0.4.gem */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SensorStream-0.0.4.gem"; sourceTree = "<group>"; };
-		3C13CB2C19E0A16C00253468 /* SensorStream-0.1.0.gem */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SensorStream-0.1.0.gem"; sourceTree = "<group>"; };
-		3C13CB2E19E0A2FA00253468 /* SensorStream-0.1.1.gem */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SensorStream-0.1.1.gem"; sourceTree = "<group>"; };
 		3C13CB2F19E0A2FA00253468 /* push */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = push; sourceTree = "<group>"; };
 		3C704A71187F2A2100C4ECED /* SSDelete.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = SSDelete.rb; sourceTree = "<group>"; };
 		3CB891E0189B4F5600E8C9B4 /* SensorStream.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = SensorStream.rb; sourceTree = "<group>"; };
@@ -24,12 +18,6 @@
 		3C13CB2D19E0A17400253468 /* gem files */ = {
 			isa = PBXGroup;
 			children = (
-				3C13CB2E19E0A2FA00253468 /* SensorStream-0.1.1.gem */,
-				3C13CB2819E0A16C00253468 /* SensorStream-0.0.1.gem */,
-				3C13CB2919E0A16C00253468 /* SensorStream-0.0.2.gem */,
-				3C13CB2A19E0A16C00253468 /* SensorStream-0.0.3.gem */,
-				3C13CB2B19E0A16C00253468 /* SensorStream-0.0.4.gem */,
-				3C13CB2C19E0A16C00253468 /* SensorStream-0.1.0.gem */,
 			);
 			name = "gem files";
 			sourceTree = "<group>";
