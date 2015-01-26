@@ -1,0 +1,2 @@
+gem build SensorStream.gemspec
+gem push SensorStream-0.2.0.gem
